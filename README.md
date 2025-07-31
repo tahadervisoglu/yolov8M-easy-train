@@ -1,0 +1,1 @@
+# yolov8M-easy-train
